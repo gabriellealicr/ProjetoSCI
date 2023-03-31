@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UmJava{
+public class UmJava {
     
     public  static  void  main ( String [] argss ){
         Scanner  s = new  Scanner ( System . in );
