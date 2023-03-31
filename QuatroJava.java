@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex04 {
+public class QuatroJava {
     
    public  static  void  main ( String [] argss ){
        Scanner  s = new  Scanner ( System . in );
