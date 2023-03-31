@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex05 {
+public class CincoJava {
     
     public  static  void  main ( String [] argss ){
        Scanner s = new Scanner(System.in);      
