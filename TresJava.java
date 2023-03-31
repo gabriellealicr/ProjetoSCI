@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex03 {
+public class TresJava {
     
     public  static  void  main ( String [] argss ){
         Scanner  s = new  Scanner ( System . in );
